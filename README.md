@@ -1,5 +1,5 @@
 # German Rubber Ducky encoder
-German HTML/JS based encoder for Rubber Ducky.
+German HTML/JS based encoder for Rubber Ducky. Go to https://schlomo.github.io/rubber-ducky-german/ to use it.
 
 I took the HTML file found at https://forums.hak5.org/topic/43834-release-html-duck-encoder/ and replaced the built-in US keyboard encoding with the German keyboard encoding found at https://github.com/hak5/bashbunny-payloads/tree/master/languages
 
